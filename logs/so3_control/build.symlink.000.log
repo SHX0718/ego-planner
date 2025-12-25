@@ -1,0 +1,6 @@
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/libSO3Control.so
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/libso3_control_nodelet.so
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/pkgconfig/so3_control.pc
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/so3_control/control_example
+Symlinking /home/tms01/Developments/ego-planner/devel/share/so3_control/cmake/so3_controlConfig.cmake
+Symlinking /home/tms01/Developments/ego-planner/devel/share/so3_control/cmake/so3_controlConfig-version.cmake

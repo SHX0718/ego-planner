@@ -8,15 +8,21 @@ model_save:             /models/plannernet.pt
 crop_size:              [360, 640]
 uint_type:              False
 # images and gaol waypoint topics
-depth_topic:            /rgbd_camera/depth/image
-goal_topic:             /way_point
+# depth_topic:            /rgbd_camera/depth/image
+# 应修改为（与仿真器匹配）
+depth_topic: /pcl_render_node/depth
+# goal_topic 使用 /goal_point，将由桥接节点从 /move_base_simple/goal 转换
+goal_topic:             /goal_point
 path_topic:             /path
 image_topic:            /iplanner_image
 camera_tilt:            0.0
 depth_max:              10.0
 # frame ids
-robot_id:               vehicle
-world_id:               map
+# robot_id:               vehicle
+# world_id:               map
+# frame ids
+robot_id:               base
+world_id:               world
 # fear reaction
 is_fear_act:            True
 buffer_size:            3

@@ -1,0 +1,4 @@
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/pkgconfig/waypoint_generator.pc
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/waypoint_generator/waypoint_generator
+Symlinking /home/tms01/Developments/ego-planner/devel/share/waypoint_generator/cmake/waypoint_generatorConfig.cmake
+Symlinking /home/tms01/Developments/ego-planner/devel/share/waypoint_generator/cmake/waypoint_generatorConfig-version.cmake

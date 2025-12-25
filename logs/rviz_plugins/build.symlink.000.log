@@ -1,0 +1,4 @@
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/librviz_plugins.so
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/pkgconfig/rviz_plugins.pc
+Symlinking /home/tms01/Developments/ego-planner/devel/share/rviz_plugins/cmake/rviz_pluginsConfig.cmake
+Symlinking /home/tms01/Developments/ego-planner/devel/share/rviz_plugins/cmake/rviz_pluginsConfig-version.cmake

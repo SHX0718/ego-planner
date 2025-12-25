@@ -1,0 +1,23 @@
+[35m[1mScanning dependencies of target local_sensing_node_gencfg[0m
+[ 20%] [34m[1mBuilding NVCC (Device) object CMakeFiles/depth_render_cuda.dir/src/depth_render_cuda_generated_depth_render.cu.o[0m
+[ 40%] [34m[1mGenerating dynamic reconfigure files from cfg/local_sensing_node.cfg: /home/tms01/Developments/ego-planner/devel/.private/local_sensing_node/include/local_sensing_node/local_sensing_nodeConfig.h /home/tms01/Developments/ego-planner/devel/.private/local_sensing_node/lib/python3/dist-packages/local_sensing_node/cfg/local_sensing_nodeConfig.py[0m
+Generating reconfiguration files for local_sensing_node in local_sensing_node
+Wrote header file in /home/tms01/Developments/ego-planner/devel/.private/local_sensing_node/include/local_sensing_node/local_sensing_nodeConfig.h
+[ 40%] Built target local_sensing_node_gencfg
+/home/tms01/Developments/ego-planner/src/uav_simulator/local_sensing/src/device_image.cuh: In instantiation of ‘DeviceImage<ElementType>::~DeviceImage() [with ElementType = int]’:
+/home/tms01/Developments/ego-planner/src/uav_simulator/local_sensing/src/depth_render.cu:179:70:   required from here
+/home/tms01/Developments/ego-planner/src/uav_simulator/local_sensing/src/device_image.cuh:125:67: warning: throw will always call terminate() [-Wterminate]
+  125 |       throw CudaException("Image: unable to free allocated memory.", err);
+      |                                                                   ^
+/home/tms01/Developments/ego-planner/src/uav_simulator/local_sensing/src/device_image.cuh:125:67: note: in C++11 destructors default to noexcept
+/home/tms01/Developments/ego-planner/src/uav_simulator/local_sensing/src/device_image.cuh:128:67: warning: throw will always call terminate() [-Wterminate]
+  128 |       throw CudaException("Image: unable to free allocated memory.", err);
+      |                                                                   ^
+/home/tms01/Developments/ego-planner/src/uav_simulator/local_sensing/src/device_image.cuh:128:67: note: in C++11 destructors default to noexcept
+[35m[1mScanning dependencies of target depth_render_cuda[0m
+[ 60%] [32m[1mLinking CXX shared library /home/tms01/Developments/ego-planner/devel/.private/local_sensing_node/lib/libdepth_render_cuda.so[0m
+[ 60%] Built target depth_render_cuda
+[35m[1mScanning dependencies of target pcl_render_node[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/pcl_render_node.dir/src/pcl_render_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/tms01/Developments/ego-planner/devel/.private/local_sensing_node/lib/local_sensing_node/pcl_render_node[0m
+[100%] Built target pcl_render_node

@@ -1,0 +1,4 @@
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/libtraj_utils.so
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/pkgconfig/traj_utils.pc
+Symlinking /home/tms01/Developments/ego-planner/devel/share/traj_utils/cmake/traj_utilsConfig.cmake
+Symlinking /home/tms01/Developments/ego-planner/devel/share/traj_utils/cmake/traj_utilsConfig-version.cmake

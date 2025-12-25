@@ -1,0 +1,5 @@
+uav_simulator/Utils/rviz_plugins
+/home/tms01/Developments/ego-planner/devel/.private/rviz_plugins/lib/librviz_plugins.so /home/tms01/Developments/ego-planner/devel/lib/librviz_plugins.so
+/home/tms01/Developments/ego-planner/devel/.private/rviz_plugins/lib/pkgconfig/rviz_plugins.pc /home/tms01/Developments/ego-planner/devel/lib/pkgconfig/rviz_plugins.pc
+/home/tms01/Developments/ego-planner/devel/.private/rviz_plugins/share/rviz_plugins/cmake/rviz_pluginsConfig.cmake /home/tms01/Developments/ego-planner/devel/share/rviz_plugins/cmake/rviz_pluginsConfig.cmake
+/home/tms01/Developments/ego-planner/devel/.private/rviz_plugins/share/rviz_plugins/cmake/rviz_pluginsConfig-version.cmake /home/tms01/Developments/ego-planner/devel/share/rviz_plugins/cmake/rviz_pluginsConfig-version.cmake

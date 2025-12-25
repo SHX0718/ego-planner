@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target plan_env[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/plan_env.dir/src/raycast.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/plan_env.dir/src/grid_map.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/tms01/Developments/ego-planner/devel/.private/plan_env/lib/libplan_env.so[0m
+[100%] Built target plan_env

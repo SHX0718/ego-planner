@@ -1,0 +1,8 @@
+[ 20%] [34m[1mGenerating dynamic reconfigure files from cfg/local_sensing_node.cfg: /home/tms01/Developments/ego-planner/devel/.private/local_sensing_node/include/local_sensing_node/local_sensing_nodeConfig.h /home/tms01/Developments/ego-planner/devel/.private/local_sensing_node/lib/python3/dist-packages/local_sensing_node/cfg/local_sensing_nodeConfig.py[0m
+[ 40%] [32m[1mLinking CXX shared library /home/tms01/Developments/ego-planner/devel/.private/local_sensing_node/lib/libdepth_render_cuda.so[0m
+Generating reconfiguration files for local_sensing_node in local_sensing_node
+Wrote header file in /home/tms01/Developments/ego-planner/devel/.private/local_sensing_node/include/local_sensing_node/local_sensing_nodeConfig.h
+[ 40%] Built target local_sensing_node_gencfg
+[ 60%] Built target depth_render_cuda
+[ 80%] [32m[1mLinking CXX executable /home/tms01/Developments/ego-planner/devel/.private/local_sensing_node/lib/local_sensing_node/pcl_render_node[0m
+[100%] Built target pcl_render_node

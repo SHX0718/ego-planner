@@ -1,0 +1,4 @@
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/libwaypoint_rviz_plugin.so
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/pkgconfig/waypoint_rviz_plugin.pc
+Symlinking /home/tms01/Developments/ego-planner/devel/share/waypoint_rviz_plugin/cmake/waypoint_rviz_pluginConfig.cmake
+Symlinking /home/tms01/Developments/ego-planner/devel/share/waypoint_rviz_plugin/cmake/waypoint_rviz_pluginConfig-version.cmake

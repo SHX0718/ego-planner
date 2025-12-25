@@ -1,0 +1,4 @@
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/mockamap/mockamap_node
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/pkgconfig/mockamap.pc
+Symlinking /home/tms01/Developments/ego-planner/devel/share/mockamap/cmake/mockamapConfig.cmake
+Symlinking /home/tms01/Developments/ego-planner/devel/share/mockamap/cmake/mockamapConfig-version.cmake

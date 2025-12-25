@@ -77,3 +77,7 @@ catkin_install_python(PROGRAMS src/iplanner_node.py
 catkin_install_python(PROGRAMS src/iplanner_viz.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
+
+catkin_install_python(PROGRAMS src/path_to_cmd_node.py
+  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+)

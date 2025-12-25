@@ -1,0 +1,6 @@
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/pkgconfig/iplanner_node.pc
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/iplanner_node/iplanner_node.py
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/iplanner_node/iplanner_viz.py
+Symlinking /home/tms01/Developments/ego-planner/devel/lib/iplanner_node/data_collect_node.py
+Symlinking /home/tms01/Developments/ego-planner/devel/share/iplanner_node/cmake/iplanner_nodeConfig.cmake
+Symlinking /home/tms01/Developments/ego-planner/devel/share/iplanner_node/cmake/iplanner_nodeConfig-version.cmake

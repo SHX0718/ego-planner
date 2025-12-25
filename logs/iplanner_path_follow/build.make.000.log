@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target iplanner_path_follow[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/iplanner_path_follow.dir/src/pathFollower.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/tms01/Developments/ego-planner/devel/.private/iplanner_path_follow/lib/iplanner_path_follow/iplanner_path_follow[0m
+[100%] Built target iplanner_path_follow
